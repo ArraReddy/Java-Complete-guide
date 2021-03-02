@@ -1,0 +1,75 @@
+package pratice;
+import java.util.Scanner;
+
+
+public class Prac {
+
+	
+	public  String swap(String str,int a,int b)
+    {
+        char[] chr=new char[str.length()];
+        
+        chr=str.toCharArray();
+        
+        char temp=chr[a];
+        chr[a]=chr[b];
+        chr[b]=temp;
+        
+        return String.valueOf(chr);
+    }	
+	
+	public void per(String str, int s,int e,String[] strArr,int i)
+	{
+		if(s==e)
+			strArr[i++]=str;
+			
+		
+		else
+		{
+			for(int chr=s;chr<=e;chr++)
+			{
+				str=swap(str,s,chr);
+				per(str,s+1,e,strArr,i);
+				str=swap(str,s,chr);
+			}
+		}
+	}
+		public static void main(String[] args) {
+			// TODO Auto-generated method stub
+			
+			
+			String str = "ABC"; 
+	        int n = str.length(); 
+	        per per=new per();
+	        
+	        String[] strArray = new String[];
+	        per(str,o,n-1,strArr,0);
+	        
+	        for(int i=o;i<strArr.length();i++)
+	        {
+	        System.out.println(strArr[i]);
+	        }
+	        
+			
+			
+			
+			
+		}
+		
+		
+	
+		     
+		     
+		      
+		      
+		      
+		      
+		      
+		       
+
+
+		    
+
+	
+
+}

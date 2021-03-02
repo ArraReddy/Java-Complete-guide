@@ -1,0 +1,28 @@
+package pratice;
+import java.util.Scanner;
+
+
+public class Prac {
+	
+	 int ro=5;
+	
+	
+	
+	public static void main(String[] args)  
+    {  
+		Prac obj=new Prac();
+		System.out.println(obj.ro);
+		
+		
+		
+        	
+       
+        
+        
+    }  
+	
+	
+	
+	
+}
+

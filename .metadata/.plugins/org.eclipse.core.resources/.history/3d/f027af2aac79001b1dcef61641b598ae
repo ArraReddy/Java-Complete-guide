@@ -1,0 +1,57 @@
+package pratice;
+import java.util.Scanner;
+
+public class Prac {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+	        
+		      Scanner s=new Scanner(System.in);
+		      int n=s.nextInt();
+		      
+		      
+		      String[] strArr=new String[n];
+		      
+		      
+		      Scanner s1=new Scanner(System.in);
+		      for(int i=0;i<n;i++)
+		      {
+		          strArr[i]=s1.nextLine();
+		      }
+		      
+		      
+		      int flag=0,cnt=0;
+              for(char chr='a';chr<='z';chr++)
+              {
+            	  flag=0;
+                  for(int i=0;i<n;i++)
+                  { 
+                	  String temp=Character.toString(chr);
+                      if ((strArr[i].contains(temp)))
+                      {
+                    	  flag++;
+                          
+                      }                      
+                  }
+                  if (flag==n)
+                  {
+                      cnt++;
+                  }
+              }
+              
+              System.out.println(cnt);
+		      
+		      
+		      
+		      
+		      
+		       
+
+
+		    
+
+	}
+
+}

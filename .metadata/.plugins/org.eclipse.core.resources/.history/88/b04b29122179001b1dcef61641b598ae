@@ -1,0 +1,41 @@
+package pratice;
+import java.util.Scanner;
+
+public class Prac {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+	        
+		      Scanner s=new Scanner(System.in);
+		      int n=s.nextInt();
+		      
+		      
+		      String[] strArr=new String[n+1];
+		      
+		      
+		       
+		      for(int i=0;i<n;i++)
+		      {
+		          strArr[i]=s.nextLine();
+		      }
+		      
+		      
+		      for(int i=0;i<n;i++)
+		      {
+		          System.out.println(strArr[i]);
+		      }
+		      
+		      
+		      
+		      
+		      
+		       
+
+
+		    
+
+	}
+
+}

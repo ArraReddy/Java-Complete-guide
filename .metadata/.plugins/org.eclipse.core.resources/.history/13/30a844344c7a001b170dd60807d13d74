@@ -1,0 +1,70 @@
+package pratice;
+import java.util.Scanner;
+
+
+public class Prac {
+	
+	
+	
+	public static String[] preArr=new String[100];
+	public static int cnt=0;
+	
+	public static void main(String[] args)  
+    {  
+		preArr=new String[100];
+		cnt=0;
+		
+		String str = "abcd";  
+        int len = str.length();  
+        
+        permut(str, 0, len);  
+        
+     
+        System.out.println(preArr[1]);
+        	
+       
+        
+        
+    }  
+	
+	public static String swapA(String a, int i, int j) {  
+        char[] b =a.toCharArray();  
+        char ch;  
+        ch = b[i];  
+        b[i] = b[j];  
+        b[j] = ch;  
+        return String.valueOf(b);  
+    }  
+	
+	 public static void permut(String str, int s, int e)  
+	    {  
+		 
+//		 
+	          
+	        if (s == e-1)  
+	        {
+	        	preArr[cnt++]=str;
+	        	
+	           
+	        }
+	       
+	        
+	        
+	        
+	            for (int i = s; i < e; i++)  
+	            {  
+	                
+	                str = swapA(str,s,i);  
+	                
+	                permut(str,s+1,e);  
+	                
+	                str = swapA(str,s,i);  
+	            }  
+	        
+	        
+	    }  
+
+	
+	
+}
+
