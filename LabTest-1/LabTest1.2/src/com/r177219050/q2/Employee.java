@@ -41,15 +41,12 @@ public class Employee implements Cloneable {
 		
 	}
 	
-	@Override
-	protected Employee clone() throws CloneNotSupportedException {
-		// TODO Auto-generated method stub
-		Employee tempEmp=(Employee)super.clone();
-		tempEmp.setDep((Department) tempEmp.getDep().clone());
-		
-		
-		return tempEmp;
-	}
+//	@Override
+//	protected Employee clone() throws CloneNotSupportedException {
+//		// TODO Auto-generated method stub
+//		Employee tempEmp=(Employee)super.clone();
+//		tempEmp.setDep((Department) tempEmp.getDep().clone());
+//	
 	
 	
 	
