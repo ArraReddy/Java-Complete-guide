@@ -16,6 +16,11 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\JavaLab\500075162\Lab7\LabExp_7.4"/>
+			<item value="D:\JavaLab\500075162\Lab7\LabExp_7.3"/>
+			<item value="D:\JavaLab\500075162\Lab7\LabExp_7.2"/>
+			<item value="D:\JavaLab\500075162\Lab7\LabExp_7.1"/>
+			<item value="D:\JavaLab\500075162\Lab7"/>
 			<item value="D:\JavaLab\500075162\LabTest-1"/>
 		</list>
 	</section>

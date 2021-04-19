@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.ReturnaddressType"/>
-    <fullyQualifiedTypeName name="jdk.jfr.internal.PrivateAccess"/>
-    <fullyQualifiedTypeName name="java.lang.Character"/>
-    <fullyQualifiedTypeName name="java.lang.CharSequence"/>
-    <fullyQualifiedTypeName name="com.r177219050.q1.ChildClass"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="com.r177219050.q1.privateMember"/>
-    <fullyQualifiedTypeName name="com.r177219050.q2.AllPlayer"/>
     <fullyQualifiedTypeName name="com.r177219050.q2.Players"/>
     <fullyQualifiedTypeName name="com.r177219050.q2.Cricket_Player"/>
     <fullyQualifiedTypeName name="com.r177219050.q2.Hockey_Player"/>
@@ -25,7 +17,6 @@
     <fullyQualifiedTypeName name="com.sun.imageio.spi.InputStreamImageInputStreamSpi"/>
     <fullyQualifiedTypeName name="com.r177219050.q4.Ordinary"/>
     <fullyQualifiedTypeName name="com.r177219050.q5.Manager"/>
-    <fullyQualifiedTypeName name="com.r177219050.q5.Employee"/>
     <fullyQualifiedTypeName name="com.r177219050.q1.Division"/>
     <fullyQualifiedTypeName name="com.r177219050.q1.Modules"/>
     <fullyQualifiedTypeName name="com.r177219050.q1.Calculator"/>
@@ -33,4 +24,40 @@
     <fullyQualifiedTypeName name="java.lang.Cloneable"/>
     <fullyQualifiedTypeName name="com.r177219050.q2.Department"/>
     <fullyQualifiedTypeName name="com.r177219050.q2.Employee"/>
+    <fullyQualifiedTypeName name="r177219050.q1.test"/>
+    <fullyQualifiedTypeName name="r177219050.q1.Arithmetic"/>
+    <fullyQualifiedTypeName name="r177219050.q2.Aacces"/>
+    <fullyQualifiedTypeName name="r177219050.q2.MyClass"/>
+    <fullyQualifiedTypeName name="r177219050.q3.Basic"/>
+    <fullyQualifiedTypeName name="r177219050.q3.Free"/>
+    <fullyQualifiedTypeName name="r177219050.q3.Premium"/>
+    <fullyQualifiedTypeName name="r177219050.q3.Membership"/>
+    <fullyQualifiedTypeName name="CalculatorAcc"/>
+    <fullyQualifiedTypeName name="r177219050.q4.CalcAcc"/>
+    <fullyQualifiedTypeName name="r177219050.q4.Callic"/>
+    <fullyQualifiedTypeName name="r177219050.q4.Calculator"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.Throwable"/>
+    <fullyQualifiedTypeName name="com.r177219050.q4.Dection"/>
+    <fullyQualifiedTypeName name="com.r177219050.q4.CarCollision"/>
+    <fullyQualifiedTypeName name="com.r177219050.q5.nameValid"/>
+    <fullyQualifiedTypeName name="com.r177219050.q5.AgeValidate"/>
+    <fullyQualifiedTypeName name="com.r177219050.q5.ageValidation"/>
+    <fullyQualifiedTypeName name="com.r177219050.q5.NameValidation"/>
+    <fullyQualifiedTypeName name="com.r177219050.q5.ValidationAcc"/>
+    <fullyQualifiedTypeName name="com.r177219050.q5.ageExepection"/>
+    <fullyQualifiedTypeName name="javax.naming.InvalidNameException"/>
+    <fullyQualifiedTypeName name="com.r177219050.q5.Validation"/>
+    <fullyQualifiedTypeName name="com.r177219050.q5.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.parser.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.utilities.IntArray"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.util.IntegerArray"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
 </qualifiedTypeNameHistroy>
