@@ -1,5 +1,4 @@
 package com.r177219050.q6;
-
 public class floatToString {
 
 	public static void main(String[] args) {
