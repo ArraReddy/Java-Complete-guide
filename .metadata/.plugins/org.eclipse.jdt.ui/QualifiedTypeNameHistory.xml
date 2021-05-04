@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.r177219050.q2.Players"/>
-    <fullyQualifiedTypeName name="com.r177219050.q2.Cricket_Player"/>
-    <fullyQualifiedTypeName name="com.r177219050.q2.Hockey_Player"/>
-    <fullyQualifiedTypeName name="com.r177219050.q2.Football_Player"/>
-    <fullyQualifiedTypeName name="com.r177219050.q3.Worker"/>
-    <fullyQualifiedTypeName name="com.r177219050.q3.SalariedWorker"/>
-    <fullyQualifiedTypeName name="com.r177219050.q3.DailyWorker"/>
-    <fullyQualifiedTypeName name="com.r177219050.q4.marker.OrdinaryCall"/>
-    <fullyQualifiedTypeName name="com.r177219050.q4.marker.UrgentCall"/>
     <fullyQualifiedTypeName name="com.r177219050.q4.marker.LightningCall"/>
     <fullyQualifiedTypeName name="com.r177219050.q4.TrunkAcc"/>
     <fullyQualifiedTypeName name="com.r177219050.q4.Trunk"/>
@@ -57,7 +48,16 @@
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.utilities.IntArray"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.util.IntegerArray"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="com.r177219050.q2.HashMap"/>
+    <fullyQualifiedTypeName name="com.r177219050.q2.hashMaps"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="com.r177219050.q3.Employee"/>
 </qualifiedTypeNameHistroy>
